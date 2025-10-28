@@ -1,0 +1,69 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "goodthing",
+    "description": "",
+    "home_page_url": "https://github.com/horsthonda/vintec",
+    "feed_url": "https://github.com/horsthonda/vintec/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ax"
+    },
+    "items": [
+        {
+            "id": "https://github.com/horsthonda/vintec/brainstorm.html",
+            "url": "https://github.com/horsthonda/vintec/brainstorm.html",
+            "title": "brainstorm",
+            "summary": "suche ideen und lösungen",
+            "content_html": "<p>suche ideen und lösungen</p>",
+            "author": {
+                "name": "ax"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-26T21:09:58+01:00",
+            "date_modified": "2024-11-26T21:09:58+01:00"
+        },
+        {
+            "id": "https://github.com/horsthonda/vintec/deine-idee-vorstellen.html",
+            "url": "https://github.com/horsthonda/vintec/deine-idee-vorstellen.html",
+            "title": "deine idee vorstellen",
+            "summary": "lade hoch und schaue die reaktionen",
+            "content_html": "<p>lade hoch und schaue die reaktionen</p>",
+            "author": {
+                "name": "ax"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-26T21:09:26+01:00",
+            "date_modified": "2024-11-26T21:32:22+01:00"
+        },
+        {
+            "id": "https://github.com/horsthonda/vintec/siehe-beste-jetzt.html",
+            "url": "https://github.com/horsthonda/vintec/siehe-beste-jetzt.html",
+            "title": "siehe beste jetzt",
+            "summary": "gunt bewertet und oben",
+            "content_html": "<p>gunt bewertet und oben</p>",
+            "author": {
+                "name": "ax"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-26T21:05:30+01:00",
+            "date_modified": "2024-11-26T21:05:30+01:00"
+        },
+        {
+            "id": "https://github.com/horsthonda/vintec/ideen-mit-fuer-alle.html",
+            "url": "https://github.com/horsthonda/vintec/ideen-mit-fuer-alle.html",
+            "title": "ideen mit für alle",
+            "summary": "deine idee vorstellen und bewerten lassen, soziale Dinge, gemeinschaft und umwelt",
+            "content_html": "<p>deine idee vorstellen und bewerten lassen, soziale Dinge, gemeinschaft und umwelt</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "ax"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-26T20:50:25+01:00",
+            "date_modified": "2024-11-26T21:20:04+01:00"
+        }
+    ]
+}

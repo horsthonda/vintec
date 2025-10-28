@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>goodthing</title>
+    <link href="https://github.com/horsthonda/vintec/feed.xml" rel="self" />
+    <link href="https://github.com/horsthonda/vintec" />
+    <updated>2024-11-26T21:32:22+01:00</updated>
+    <author>
+        <name>ax</name>
+    </author>
+    <id>https://github.com/horsthonda/vintec</id>
+
+    <entry>
+        <title>brainstorm</title>
+        <author>
+            <name>ax</name>
+        </author>
+        <link href="https://github.com/horsthonda/vintec/brainstorm.html"/>
+        <id>https://github.com/horsthonda/vintec/brainstorm.html</id>
+
+        <updated>2024-11-26T21:09:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                    suche ideen und lösungen
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>suche ideen und lösungen</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>deine idee vorstellen</title>
+        <author>
+            <name>ax</name>
+        </author>
+        <link href="https://github.com/horsthonda/vintec/deine-idee-vorstellen.html"/>
+        <id>https://github.com/horsthonda/vintec/deine-idee-vorstellen.html</id>
+
+        <updated>2024-11-26T21:09:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                    lade hoch und schaue die reaktionen
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>lade hoch und schaue die reaktionen</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>siehe beste jetzt</title>
+        <author>
+            <name>ax</name>
+        </author>
+        <link href="https://github.com/horsthonda/vintec/siehe-beste-jetzt.html"/>
+        <id>https://github.com/horsthonda/vintec/siehe-beste-jetzt.html</id>
+
+        <updated>2024-11-26T21:05:30+01:00</updated>
+            <summary>
+                <![CDATA[
+                    gunt bewertet und oben
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>gunt bewertet und oben</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ideen mit für alle</title>
+        <author>
+            <name>ax</name>
+        </author>
+        <link href="https://github.com/horsthonda/vintec/ideen-mit-fuer-alle.html"/>
+        <id>https://github.com/horsthonda/vintec/ideen-mit-fuer-alle.html</id>
+
+        <updated>2024-11-26T20:50:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                    deine idee vorstellen und bewerten lassen, soziale Dinge, gemeinschaft und umwelt
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>deine idee vorstellen und bewerten lassen, soziale Dinge, gemeinschaft und umwelt</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
